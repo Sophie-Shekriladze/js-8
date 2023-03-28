@@ -1,0 +1,12 @@
+.li-wraper{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(30, 185, 237);
+    margin: 40px 10px;
+}
+
+ul{
+    display: flex;
+}
